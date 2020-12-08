@@ -1,1 +1,1 @@
-# MS-Student-Podcast-
+# MS Student Podcast App
